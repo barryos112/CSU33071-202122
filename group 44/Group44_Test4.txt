@@ -1,0 +1,16 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : No
+
+## Declaring variables with multiple types
+
+
+void test (){
+   
+   int x ;
+   x = 0 and false ; 
+
+}

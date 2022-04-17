@@ -1,0 +1,11 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : Yes
+
+## Comments are allowed in text file to explain code by using '//'
+
+//Testing declaration of variables
+

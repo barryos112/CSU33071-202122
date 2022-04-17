@@ -1,0 +1,13 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : Yes
+
+## Proper declaration of Strings
+
+void test{
+    String = "Testing";
+}
+

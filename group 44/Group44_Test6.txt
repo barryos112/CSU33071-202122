@@ -1,0 +1,16 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : No
+
+## Validity of defined Ints
+
+
+void main (){
+   
+   int x = 20f ;
+  
+
+}

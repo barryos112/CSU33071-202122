@@ -1,0 +1,20 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : Yes
+
+## Description: Check capability of != expression
+
+void test{
+
+    int x = 2;
+    if (x != 2){
+        printf("VALID");
+    }
+    else {
+        printf("ERROR");
+    }
+
+}

@@ -1,0 +1,14 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : Yes
+
+## If statements have to end with a semicolon
+
+
+void main (){
+   
+  if(true) then printf("VALID");
+}

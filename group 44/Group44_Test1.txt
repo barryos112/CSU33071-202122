@@ -1,0 +1,12 @@
+## Group 44
+
+## Barry O'Sullivan
+## Cillian Byrne
+
+## Valid : No
+
+## Declaration and Assignement can not be on the same line in Toy 
+
+void test(){
+    int a = 1;
+}
